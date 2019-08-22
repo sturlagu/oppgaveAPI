@@ -8,5 +8,5 @@
     npm start
     
     Laget et lite grensesnitt som kjører på localhost:3000. Testing også gjort med Postman.
-    
-    ![eksempelbilde](app/eksempelBilde/eksempelbilde.JPG?raw=true "eksempelbilde")
+   
+![eksempelbilde](app/eksempelBilde/eksempelbilde.JPG?raw=true "eksempelbilde")
