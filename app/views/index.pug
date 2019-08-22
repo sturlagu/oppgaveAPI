@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  .container
+    .imageUpload
+      form(method="POST" id="uploadForm" enctype="multipart/form-data")
+        input(type="file" name="image" id="imageInput" accept="image/*")
+      label(for="imageInput") Velg en fil
+  .container
+    .imagePreview
+      img(src="", id="imageView")
+    button(type="submit" id="imageButton" form="uploadForm") Last opp bilde
