@@ -3,7 +3,7 @@
     Bildet lagres lokalt ved hjelp av multer, og bilderedigering ved hjelp av Jimp.
     
     Installasjon:
-    cd /app
+    cd /oppgaveAPI/app
     npm install
     npm start
     
